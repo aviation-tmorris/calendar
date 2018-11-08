@@ -1,9 +1,9 @@
 BEGIN:VCALENDAR
-PRODID:-//Google Inc//Google Calendar 70.9054//EN
+PRODID:System-F Flight Operations
 VERSION:2.0
 CALSCALE:GREGORIAN
 METHOD:PUBLISH
-X-WR-CALNAME:Aviation Australia
+X-WR-CALNAME:AirServices Document Amendment
 X-WR-TIMEZONE:Australia/Brisbane
 X-WR-CALDESC:e.g. new ERSA\, new charts\n
 BEGIN:VEVENT
